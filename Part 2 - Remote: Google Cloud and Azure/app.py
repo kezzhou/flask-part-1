@@ -1,3 +1,11 @@
+## Terminal commands
+
+'apt-get install updates'
+
+'sudo apt install python3-pip'
+
+
+
 ## Imports
 
 from flask import Flask
