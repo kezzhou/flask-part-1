@@ -5,7 +5,7 @@
 
 'python3 -m venv ~/.venvs/flask'
 
-'source ~/.venvs/flask/bin/activiate'
+'source ~/.venvs/flask/bin/activate'
 
 'pip3 install flask'
 
