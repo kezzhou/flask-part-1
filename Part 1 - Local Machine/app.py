@@ -24,8 +24,8 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route('/') ## We'll leave only a front slash here and no name so that the default navigation takes us here
-def home():
-    return 'Welcome to NuForm Patient Portal'
+def main():
+    return 'Hello World'
 
 @app.route('/scheduleappointments') 
 def scheduleappointments():
