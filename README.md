@@ -1,5 +1,6 @@
 # flask-part-1
-## HHA 504 - Cloud Computing: Flask Application Part 1
+
+## HHA 504 // Week 2 // Assignment 1
 
 ## In this assignment we experiment with the basics of setting up and deploying flask to a local and remote (in this case GCP and Azure) environment for testing.
 
