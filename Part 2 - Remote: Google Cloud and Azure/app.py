@@ -1,8 +1,12 @@
 ## Terminal commands
 
-'apt-get install updates'
+'apt-get install updates' ## installs updates for vm
 
-'sudo apt install python3-pip'
+'sudo apt install python3-pip' ##installs pip 
+
+'python3 app.py' ## runs the application
+
+'sudo nohup python3 app.py > log.txt 2>&1 &' ## this terminal command ensures that the app runs in the background even when the client is shut down
 
 
 
